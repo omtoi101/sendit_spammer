@@ -1,5 +1,5 @@
 # sendit spammer
-### a python based snapchat sendit spammer
+### A python based snapchat sendit spammer.
 
 To use this spammer you have to have the sendit link,
 
