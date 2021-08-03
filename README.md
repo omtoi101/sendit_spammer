@@ -1,4 +1,3 @@
-![beans](https://user-images.githubusercontent.com/83868916/127990697-3fb41378-1bbe-44a1-8195-92b8ad97fc1c.jpg)
 # sendit_spammer
 ### a python based snapchat sendit spammer
 
