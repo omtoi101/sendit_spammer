@@ -121,4 +121,11 @@ Now put your message in the next field.
 
 ![image](https://user-images.githubusercontent.com/83868916/127990877-70a283ee-ed30-4f7b-91e8-f904068a1a97.png)
 
-After you have entered the 
+After you have entered the fields a chrome window should pop up and start messaging, sending, refreshing and repeating.
+If this happens then the spammer is working !!
+
+
+Otherwise that brings me to my next section.
+
+## Errors :(
+### remember if you are getting errors you can tell me in the Issues tab on Github and i will respond with a solution ASAP.
