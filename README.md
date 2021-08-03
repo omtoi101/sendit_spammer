@@ -1,3 +1,4 @@
+![beans](https://user-images.githubusercontent.com/83868916/127990697-3fb41378-1bbe-44a1-8195-92b8ad97fc1c.jpg)
 # sendit_spammer
 ### a python based snapchat sendit spammer
 
@@ -111,8 +112,14 @@ and chop it off at the question mark
 
 https://web.getsendit.com/s/edeef98b-f2ea-4b68-93ee-c1584657d969 ? sc_ewa=1&sc_ewa_page_id=ewa_snapkit_fake_snap_id_prefixfa58lolnotgettingmyurl:)5ca-01219
 
-and get the first part of the link eg:
+And get the first part of the link eg:
 
 https://web.getsendit.com/s/edeef98b-f2ea-4b68-93ee-c1584657d969
 
-And now thats the link you want to input into the sendit url part on the spammer
+And now thats the link you want to input into the sendit url part on the spammer.
+
+Now put your message in the next field.
+
+![image](https://user-images.githubusercontent.com/83868916/127990877-70a283ee-ed30-4f7b-91e8-f904068a1a97.png)
+
+After you have entered the 
