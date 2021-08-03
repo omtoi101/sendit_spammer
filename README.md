@@ -11,7 +11,7 @@ This spammer only works on normal sendit so it wouldnt work on the this or that 
 
 Also my code is to only be used for educational purposes or with the consent of the person on the other end of the spamming,
 I am in no way responsible for the way my code is used.
-### Also spamming is ilegal in:
+### Also spamming is illegal in:
 
 United States: CAN-SPAM Act
 
@@ -92,4 +92,27 @@ the folder should look like this now!
 Run the sendit_spammer.py by double clicking it, py'ing it in the terminal or using an IDE like pycharm to execute it, it doesn't really matter.
 
 
-When it runs
+When the script runs it should look like this:
+
+(if you are just double clicking it)
+
+![image](https://user-images.githubusercontent.com/83868916/127988884-64bcb5fb-232b-4ab9-bb4c-93467b824d7c.png)
+
+If you see something like this before the previouse image then it is just auto installing the required imports
+
+![image](https://user-images.githubusercontent.com/83868916/127989262-caba5ea5-2ff0-4df0-a5de-aa6f203ee207.png)
+
+After finished installing all the imports it will ask for a url;
+
+What you want to do is get your sendit link eg:
+https://web.getsendit.com/s/edeef98b-f2ea-4b68-93ee-c1584657d969?sc_ewa=1&sc_ewa_page_id=ewa_snapkit_fake_snap_id_prefixfa58lolnotgettingmyurl:)5ca-01219-a7L2-f5d7-fcd5dbcedaec
+
+and chop it off at the question mark
+
+https://web.getsendit.com/s/edeef98b-f2ea-4b68-93ee-c1584657d969 ? sc_ewa=1&sc_ewa_page_id=ewa_snapkit_fake_snap_id_prefixfa58lolnotgettingmyurl:)5ca-01219
+
+and get the first part of the link eg:
+
+https://web.getsendit.com/s/edeef98b-f2ea-4b68-93ee-c1584657d969
+
+And now thats the link you want to input into the sendit url part on the spammer
