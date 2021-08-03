@@ -129,3 +129,23 @@ Otherwise that brings me to my next section.
 
 ## Errors :(
 ### remember if you are getting errors you can tell me in the Issues tab on Github and i will respond with a solution ASAP.
+
+Also if you are getting an error that looks like this while the script is running:
+![image](https://user-images.githubusercontent.com/83868916/127994778-65667aa4-92be-447d-8f19-1cac4f367d3c.png)
+
+Then just ignore it because I don't know why it is happening but the spammer works fine even while returning the error.
+
+Aswell, if you are getting import errors like this:
+![image](https://user-images.githubusercontent.com/83868916/127995151-86627409-bb0e-48df-9f4b-9e603145772b.png)
+
+Then you will need to go to cmd and type:
+pip install selenium
+
+pip install keyboard
+
+pip install urllib3
+
+if that doesn't work then use the Issues tab.
+
+# Happy spamming !!
+## and enjoy my code
