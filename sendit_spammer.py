@@ -22,7 +22,6 @@ time.sleep(1)
 while True:
         index +=1
         try:
-
                 time.sleep(1)
                 # find the buttons and type the message
                 driver.find_element_by_xpath("""/html/body/div/div[3]/div/div[1]/div[2]/form""").click()
@@ -38,6 +37,5 @@ while True:
                 print("error")
                 driver.quit()
                 driver = webdriver.Chrome("chromedriver.exe")
-                time.sleep(1)
+                driver.get(url)
                 pass
-
