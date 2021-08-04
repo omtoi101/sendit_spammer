@@ -38,5 +38,6 @@ while True:
                 print("error")
                 driver.quit()
                 driver = webdriver.Chrome("chromedriver.exe")
+                time.sleep(1)
                 pass
 
